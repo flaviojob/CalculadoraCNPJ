@@ -1,0 +1,10 @@
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.deps.json
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.runtimeconfig.json
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.runtimeconfig.dev.json
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.dll
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.pdb
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.AssemblyInfoInputs.cache
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.AssemblyInfo.cs
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.dll
+C:\Users\flavio.hrferreira\Logica\CalculoCNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.pdb
